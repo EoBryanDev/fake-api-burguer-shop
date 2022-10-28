@@ -1,50 +1,52 @@
-{
-    "burgers": [
-        {
-            "nome": "Mauricio Bryan de Andrade Viana",
-            "pao": "Parmesão e Orégano",
-            "carne": "Maminha",
-            "opcionais": [
-                "Bacon",
-                "Salame"
-            ],
-            "status": "Finalizado",
-            "id": 1
-        },
-        {
-            "nome": "joao",
-            "pao": "Italiano Branco",
-            "carne": "Veggie burger",
-            "opcionais": [
-                "Pepino",
-                "Tomate"
-            ],
-            "status": "Finalizado",
-            "id": 2
-        },
-        {
-            "nome": "maria",
-            "pao": "Integral",
-            "carne": "Alcatra",
-            "opcionais": [
-                "Bacon",
-                "Salame"
-            ],
-            "status": "Solicitado",
-            "id": 3
-        },
-        {
-            "nome": "maria",
-            "pao": "Parmesão e Orégano",
-            "carne": "Alcatra",
-            "opcionais": [
-                "Bacon",
-                "Salame",
-                "Cebola roxa",
-                "Cheddar"
-            ],
-            "status": "Em produção",
-            "id": 4
-        }
-    ]
-}
+[
+    {
+        "burgers": [
+            {
+                "nome": "Mauricio Bryan de Andrade Viana",
+                "pao": "Parmesão e Orégano",
+                "carne": "Maminha",
+                "opcionais": [
+                    "Bacon",
+                    "Salame"
+                ],
+                "status": "Finalizado",
+                "id": 1
+            },
+            {
+                "nome": "joao",
+                "pao": "Italiano Branco",
+                "carne": "Veggie burger",
+                "opcionais": [
+                    "Pepino",
+                    "Tomate"
+                ],
+                "status": "Finalizado",
+                "id": 2
+            },
+            {
+                "nome": "maria",
+                "pao": "Integral",
+                "carne": "Alcatra",
+                "opcionais": [
+                    "Bacon",
+                    "Salame"
+                ],
+                "status": "Solicitado",
+                "id": 3
+            },
+            {
+                "nome": "maria",
+                "pao": "Parmesão e Orégano",
+                "carne": "Alcatra",
+                "opcionais": [
+                    "Bacon",
+                    "Salame",
+                    "Cebola roxa",
+                    "Cheddar"
+                ],
+                "status": "Em produção",
+                "id": 4
+            }
+        ]
+    }
+]
